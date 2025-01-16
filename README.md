@@ -1,4 +1,4 @@
-# CMPG323-Project5-35537205
+
 Power BI is a powerful business analytics tool that offers several benefits to stakeholders, allowing them to visualize data, gain insights, and make informed decisions. Here’s how Power BI can be beneficial and how stakeholders can use the reports developed by it:
 
 Benefits of Power BI to Stakeholders
